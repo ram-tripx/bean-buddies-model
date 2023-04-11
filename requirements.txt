@@ -2,3 +2,5 @@ numpy
 scikit-surprise
 jupyterlab
 jupyter
+fuzzywuzzy
+python-Levenshtein
